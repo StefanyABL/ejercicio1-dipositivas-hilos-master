@@ -1,1 +1,1 @@
-# ejercicio1-dipositivas-hilos-master
+# ejercicio1-dipositivas-hilos
